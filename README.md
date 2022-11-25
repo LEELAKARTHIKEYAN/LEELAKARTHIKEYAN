@@ -23,7 +23,10 @@
   </p>
  </div> 
  
-
+ <div align="center">
+<a href="https://github.com/LEELAKARTHIKEYAN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEELAKARTHIKEYAN&langs_count=6)" />
+ </div>
 ## Connect with me:
 
 <p align="center">
@@ -45,9 +48,7 @@
 </p>	
  
 <br>
- <div align="center">
-<a href="https://github.com/LEELAKARTHIKEYAN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEELAKARTHIKEYAN&langs_count=6)" />
+
 
 
 <!--
