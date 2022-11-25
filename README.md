@@ -22,20 +22,33 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   </p>
  </div> 
+ 
+
+## Connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahmoud-miehob-937064187"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+   <a href="https://www.facebook.com/profile.php?id=100010194910703"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
+   <a href="mailto:mahmoudmiehob@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
+  <a href="https://www.youtube.com/channel/UCuGcIO6rrQkwZr4ex5oaB3w"><img src="https://img.shields.io/badge/youtube-e00101.svg?style=for-the-badge&logo=youtube&logoColor=ffffff"/></a>
+
+</p>
+
+## ❤ Views and Followers
+
+<p align='center'> <img src="https://komarev.com/ghpvc/?username=LEELAKARTHIKEYAN&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
+
+
+<h2 align='left'>Thank You ❤</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
+</p>	
+ 
+<br>
  <div align="center">
 <a href="https://github.com/LEELAKARTHIKEYAN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEELAKARTHIKEYAN&langs_count=6)" />
-<!-- </a>
-<a href="https://github.com/LEELAKARTHIKEYAN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LEELAKARTHIKEYAN" />
-</a> -->
- </div> 
-<!-- 
-<div align="center">
-<a href="https://www.linkedin.com/in/shravanatirtha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/tirthashravana" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> -->
-<!-- <a href="https://www.facebook.com/shravanatirtha" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> -->
-</div>
+
 
 <!--
 **LEELAKARTHIKEYAN/LEELAKARTHIKEYAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
