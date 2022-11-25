@@ -1,4 +1,3 @@
-
 <h1 align="center">
  👋 Hi, I'm Leela Karthikeyan!
 </h1>
@@ -26,9 +25,10 @@
 <a href="https://github.com/LEELAKARTHIKEYAN">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LEELAKARTHIKEYAN&theme=darcula" />
 </a>
-<br>
- 
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Zone
+<br><br>
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
  <br>
    <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
@@ -36,6 +36,7 @@
   <br/>
 
   <br><br>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <h2 align="left"> 💻 Languages and Tools:</h2>
 
 <table align="center">
@@ -135,11 +136,13 @@
 </table>
  </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💜 Profile Views
 
 <p align='center'> <img src="https://komarev.com/ghpvc/?username=LEELAKARTHIKEYAN&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align='left'>Thank You ❤</h2>
 <p align="center">
