@@ -1,8 +1,19 @@
-### Hey! I'm glad that you visited me 😄
+
+<h1 align="center">
+ 👋 Hi, I'm Leela Karthikeyan!
+</h1>
+ 
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines= Student at VIT Chennai; Fullstack+web+developer" > 
+</p>
+
+</br>
 <div align="center">
  <a href="https://github.com/LEELAKARTHIKEYAN">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LEELAKARTHIKEYAN&theme=darcula&show_icons=true" />
 </a>
+
 <a href="https://github.com/LEELAKARTHIKEYAN">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LEELAKARTHIKEYAN&theme=darcula" />
 </a>
@@ -10,6 +21,10 @@
  
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Zone
  <br>
+   <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/LEELAKARTHIKEYAN"><img alt="LK's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LEELAKARTHIKEYAN&custom_title=LK's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 <p align="left">
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"> </code>
