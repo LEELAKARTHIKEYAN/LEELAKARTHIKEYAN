@@ -11,22 +11,24 @@
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Zone
  <br>
 <p align="left">
-<!--   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code> 
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code> -->
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
+   <code> <img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
+   <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code> 
   </p>
  </div> 
  <div align="center">
 <a href="https://github.com/LEELAKARTHIKEYAN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEELAKARTHIKEYAN&langs_count=6)" />
-</a>
+<!-- </a>
 <a href="https://github.com/LEELAKARTHIKEYAN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LEELAKARTHIKEYAN" />
-</a>
+</a> -->
  </div> 
 <!-- 
 <div align="center">
