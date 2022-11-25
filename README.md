@@ -106,8 +106,14 @@
       <br>Node JS
     </td>
      <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="48" height="48" alt="Laravel" />
+      <a href="#aws">
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="48" height="48" alt="aws" />
+      </a>
+      <br>AWS
+    </td>
+   <td align="center" width="96">
+      <a href="#php">
+        <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="48" height="48" alt="php" />
       </a>
       <br>AWS
     </td>
