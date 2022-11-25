@@ -115,7 +115,7 @@
       <a href="#php">
         <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="48" height="48" alt="php" />
       </a>
-      <br>AWS
+      <br>PHP
     </td>
   </tr>
    <tr>
