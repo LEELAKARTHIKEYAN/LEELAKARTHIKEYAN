@@ -4,7 +4,7 @@
  
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&lines=Student+at+VIT+Chennai;Fullstack+web+developer" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&lines=Student+at+VIT+Chennai;I'm+learning+Fullstack+web+development" > 
 </p>
 
 <a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
