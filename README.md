@@ -7,5 +7,5 @@
 ### Hi there! 👋
 
 + I am pursuing my B.tech in Electronics and Computer Engineering at VIT Chennai .
-+ I have done few projects in Web development .
++ I have done few projects in Web and App development .
 + Currently, I am focusing and gaining knowledge on AI and ML .
